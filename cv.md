@@ -5,7 +5,7 @@
 ## Contact:
 - tg: atersort
 - discord: atersort
-- veresovdamil@gmail.com
+- veresovdanil@gmail.com
 ---
 ## About me
 I work as a seo specialist. I learn to create proper technical services optimized for search engines.
