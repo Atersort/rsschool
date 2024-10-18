@@ -1,1 +1,1 @@
-https://github.com/Atersort/rsschool-cv/blob/gh-pages/cv/cv.md
+https://Atersort.github.io/rsschool-cv/cv
