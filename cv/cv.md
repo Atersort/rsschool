@@ -18,3 +18,26 @@ I work as a seo specialist. I learn to create proper technical services optimize
 - PHP
 
 ---
+
+## Code example
+- hide\show password input icon. I used this code in a tutorial project to create a PHP notepad
+-
+``` javascripts
+function show_hide_password(target){
+    var input = document.getElementById('password-input');
+    if (input.getAttribute('type') == 'password') {
+        target.classList.add('view');
+        input.setAttribute('type', 'text');
+    } else {
+        target.classList.remove('view');
+        input.setAttribute('type', 'password');
+    }
+    return false;
+}
+```
+---
+
+## Project
+- [main CV](https://github.com/Atersort/rsschool-cv/blob/gh-pages/cv/cv.md)
+- [PHPnotepad] - update link later
+- habbit tracker - added link later
