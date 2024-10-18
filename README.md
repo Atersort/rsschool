@@ -1,1 +1,1 @@
-https://Atersort.github.io/rsschool-cv/cv
+https://atersort.github.io/rsschool-cv/cv
