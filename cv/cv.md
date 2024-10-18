@@ -21,7 +21,6 @@ I work as a seo specialist. I learn to create proper technical services optimize
 
 ## Code example
 - hide\show password input icon. I used this code in a tutorial project to create a PHP notepad
--
 ``` javascripts
 function show_hide_password(target){
     var input = document.getElementById('password-input');
