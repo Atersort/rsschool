@@ -40,3 +40,6 @@ function show_hide_password(target){
 - [main CV](https://github.com/Atersort/rsschool-cv/blob/gh-pages/cv/cv.md)
 - [PHPnotepad] - update link later
 - habbit tracker - added link later
+
+## Education
+- 2018-2021 - donstu
