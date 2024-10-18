@@ -1,0 +1,1 @@
+[CV](https://github.com/Atersort/rsschool-cv/blob/gh-pages/cv/cv.md)
